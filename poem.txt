@@ -4,3 +4,6 @@ green
 orange
 blue
 red
+
+The sun shines at the same time!
+It's brighter then ever.
